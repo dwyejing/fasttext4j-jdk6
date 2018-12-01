@@ -1,3 +1,4 @@
+111111111111111111111111111111111111111111111
 # fastText4j
 
 Java port of C++ version of Facebook Research [fastText][fasttext].
